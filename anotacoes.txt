@@ -1,0 +1,1 @@
+faça um script em php que calcule a média ponderada de 3 notas e exiba uma das mensagens: aprovado, reprovado ou em prova final. média: 7: aprovado, menor que 3: reprovado, demais: exame
